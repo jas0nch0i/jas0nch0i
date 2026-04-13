@@ -5,7 +5,7 @@ Senior Analytics & BI Leader focused on Power BI, SQL, Databricks, GIS, and AI a
 I build executive dashboards, reporting workflows, and scalable analytics solutions that help organizations make faster, better decisions.
 
 ## Core Focus
-- Executive dashboards and performance reporting
+- Executive dashboards and operational performance reporting
 - SQL, Databricks, and data modeling
 - KPI design and reporting automations
 - AI-assisted workflow optimization
