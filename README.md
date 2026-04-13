@@ -25,4 +25,4 @@ I build executive dashboards, reporting workflows, and scalable analytics soluti
 
 ## Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jas0n-ch0i/)
-
+- 📧 [Email me](mailto:jchoi815@gmail.com)
