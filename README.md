@@ -1,28 +1,58 @@
 # Jason Choi
 
-Senior Analytics & BI Leader focused on Power BI, SQL, Databricks, GIS, and AI automation.
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-blue" />
+  <img src="https://img.shields.io/badge/SQL-Analytics-blue" />
+  <img src="https://img.shields.io/badge/Python-3.12-blue" />
+  <img src="https://img.shields.io/badge/Databricks-Data%20Modeling-blue" />
+  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-blue" />
+  <img src="https://img.shields.io/badge/AI-Automation-blue" />
+</p>
 
-I build executive dashboards, reporting workflows, and scalable analytics solutions that help organizations make faster, better decisions.
+I turn complex data into clear decisions, scalable workflows, and measurable business value — across executive dashboards, customer analytics, ML-driven segmentation, and AI-assisted BI development.
+
+> Currently building schema-driven Power BI automation, customer-analytics pipelines, and AI-assisted BI workflows. Open to senior BI, data analyst, data engineer, and AI automation roles.
+
+📂 **Full portfolio:** [`bi-ai-portfolio`](https://github.com/jas0nch0i/bi-ai-portfolio) — featured projects with deep dives, visuals, and code
+
+---
 
 ## Core Focus
-- Executive dashboards and operational performance reporting
-- SQL, Databricks, and data modeling
-- KPI design and reporting automations
-- AI-assisted workflow optimization
+
+| Discipline | Applied to |
+|---|---|
+| **Business Intelligence** | Executive dashboards, operational reporting, KPI frameworks |
+| **Analytics Engineering** | SQL, Databricks, data modeling, semantic-model design |
+| **Machine Learning** | Customer segmentation (RFM + k-means), supervised churn classification |
+| **Reporting Automation** | PBIP / TMDL deployment, schema-validated themes, DAX batch generation |
+| **AI-Assisted Workflows** | Prompt patterns, human + AI ownership models, BI development acceleration |
+| **Decision Support** | Business-facing insights, executive storytelling, stakeholder reporting |
+
+---
 
 ## Featured Projects
-- **Executive Dashboard Case Study**  
-  Designed a leadership-ready reporting solution that translates complex operational data into clear KPIs, dashboard views, and decision support.
 
-- **AI-Assisted BI Workflow**  
-  Built a repeatable process for using AI to support report development, DAX refinement, documentation, and faster dashboard prototyping.
+### [Executive Dashboard Case Study](https://github.com/jas0nch0i/executive-operations-dashboard-case-study)
+Operational reporting consolidated into one executive dashboard. Standardized KPIs, before / after process improvement, and near-real-time visibility replace a fragmented manual cycle. Includes hero dashboard mockup, KPI card anatomy, architecture flow, and business-question mapping.
 
-- **Reporting Automation Toolkit**  
-  Created reusable automation assets for cleaning data, standardizing reporting workflows, and reducing manual effort across recurring deliverables.
+### [AI-Assisted Power BI Workflow](https://github.com/jas0nch0i/ai-assisted-powerbi-workflows)
+A 9-stage human + AI workflow with explicit ownership lanes. Prompt taxonomy spans DAX, KPI definitions, documentation, dashboard design, and troubleshooting. Built on a single principle: AI accelerates, the human owns the decision-making.
 
-- **Customer Segmentation Analysis**  
-  Developed an analytics case study using customer behavior and demographic patterns to support segmentation, targeting, and campaign strategy.
+### [Reporting Automation Toolkit](https://github.com/jas0nch0i/reporting-automation-toolkit)
+Python + TMDL automation patterns for PBIP deployment, schema-validated theme generation, DAX measure batch generation, and TMDL → Markdown documentation. Brand refresh in 5 minutes vs 2 hours; documentation in under 5 minutes vs half a day.
+
+### [Customer Segmentation Analysis](https://github.com/jas0nch0i/customer-segmentation-analysis)
+RFM + k-means segmentation on UCI Online Retail II. Gradient-boosted churn classification on IBM Telco. Five behavioral personas (Champions, Loyal, At-Risk Spenders, New Casuals, Hibernating), ROC AUC 0.77 on the bundled synthetic baseline (~0.84 on real data), Power BI integration layer.
+
+---
+
+## GitHub Stats
+
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jas0nch0i&show_icons=true&theme=default&hide=stars,issues&include_all_commits=true&card_width=420)
+
+---
 
 ## Connect
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jas0n-ch0i/)
 - 📧 [Email me](mailto:jchoi815@gmail.com)
