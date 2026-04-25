@@ -11,7 +11,7 @@
 
 I turn complex data into clear decisions, scalable workflows, and measurable business value — across executive dashboards, customer analytics, ML-driven segmentation, and AI-assisted BI development.
 
-> Currently building schema-driven Power BI automation, customer-analytics pipelines, and AI-assisted BI workflows. Open to senior BI, data analyst, data engineer, and AI automation roles.
+> Currently building schema-driven Power BI automation, customer-analytics pipelines, AI-assisted BI workflows, and Streamlit apps on Databricks for analyst tooling and operational workflows. Open to senior BI, data analyst, data engineer, and AI automation roles.
 
 📂 **Full portfolio:** [`bi-ai-portfolio`](https://github.com/jas0nch0i/bi-ai-portfolio) — featured projects with deep dives, visuals, and code
 
@@ -43,6 +43,9 @@ Python + TMDL automation patterns for PBIP deployment, schema-validated theme ge
 
 ### [Customer Segmentation Analysis](https://github.com/jas0nch0i/customer-segmentation-analysis)
 RFM + k-means segmentation on UCI Online Retail II. Gradient-boosted churn classification on IBM Telco. Five behavioral personas (Champions, Loyal, At-Risk Spenders, New Casuals, Hibernating), ROC AUC 0.77 on the bundled synthetic baseline (~0.84 on real data), Power BI integration layer.
+
+### [Streamlit Apps on Databricks](https://github.com/jas0nch0i/streamlit-databricks-apps) — *currently exploring*
+Local Streamlit mockups designed for deployment as Databricks Apps. Plan-review queue triage with weighted scoring (SLA, resubmittal, complexity, staleness), an analyst toolkit (CSV/Excel explorer + multi-sheet auto-join), and a Databricks cost-monitoring reference (system-table queries, tagging, budget policies). Built against synthetic data; deployment to Databricks Apps is the next step.
 
 ---
 
